@@ -6,3 +6,7 @@ Testrepository zum Lernen von GIT
 2. Repo klonen - Erledigt!
 3. Dateien auf lokalen Repo ändern - Eredigt!
 4. Änderungen auf den Server puschen - Erledigt!
+
+# Die weiteren SChritte
+
+Die wirkliche Vorlage klonen und ein eigenes Repo stellen
